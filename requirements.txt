@@ -1,0 +1,4 @@
+docling
+sentence-transformers
+faiss-cpu
+numpy
